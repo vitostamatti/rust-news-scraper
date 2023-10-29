@@ -14,6 +14,8 @@ News scraper made with rust. Only for learning purposes.
 
 ### Future Possible Works
 - cmd cli
+- code refactoring
+- code optimization
 - database (maybe for other project)
 - chat gpt for summary and tags (maybe for other project)
 
